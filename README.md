@@ -1,6 +1,6 @@
 # OpenGL_assignment
 		/*==============================//
-		// Yun Sergey, AC Lab.		//
+		// Rei_N, AC Lab.		//
 		// Humanoid Robot, How to use.	//
 		//==============================*/
 
